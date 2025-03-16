@@ -28,7 +28,17 @@ In other words, it is neural network based aimbot, capturing screen region, dete
 ## 🎥 Demo
 Check out Hypervision in action:
 
-![Hypervision](assets/demo.mp4?raw=true)
+<figure>
+  <img src="assets/demo_1.png" alt="Detection" width="600" />
+  <figcaption>Figure 1: Hypervision detecting targets in real-time.</figcaption>
+</figure>
+
+<figure>
+  <img src="assets/demo_2.png" alt="Kill" width="600" />
+  <figcaption>Figure 2: Hypervision eliminating targets with precision.</figcaption>
+</figure>
+
+<!-- ![Hypervision](https://i.imgur.com/your-gif-link.gif) -->
 
 ### 🛠 Key Features
 - 🔭 **YOLOv11 Powered**: Built on the robust YOLOv11 architecture for high accuracy and speed.
