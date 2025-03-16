@@ -28,7 +28,7 @@ In other words, it is neural network based aimbot, capturing screen region, dete
 ## 🎥 Demo
 Check out Hypervision in action:
 
-![Hypervision](assets/demo.gif)
+![Hypervision](assets/demo.gif?raw=true)
 
 ### 🛠 Key Features
 - 🔭 **YOLOv11 Powered**: Built on the robust YOLOv11 architecture for high accuracy and speed.
