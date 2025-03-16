@@ -1,0 +1,19 @@
+[project]
+name = "hypervision"
+version = "0.1.0"
+description = "nn-based aim assist"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "colored>=2.3.0",
+    "cython>=3.0.12",
+    "imutils>=0.5.4",
+    "keyboard>=0.13.5",
+    "numpy>=2.2.3",
+    "opencv-python>=4.11.0.86",
+    "pycuda>=2025.1",
+    "pynput>=1.7.8",
+    "pywin32>=308",
+    "tensorrt>=10.9.0.34",
+    "termcolor>=2.5.0",
+]

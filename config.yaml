@@ -1,0 +1,11 @@
+screen_width: 2560
+screen_height: 1440
+activation_range: 640
+confidence_threshold: 0.3
+sensitivity: 0.8
+nms_threshold: 0.45
+model_path: "models/trt/yolov11.engine"
+enable_aim: True
+display: True
+toggle_button: 'ctrl'
+mouse: 'rel'
